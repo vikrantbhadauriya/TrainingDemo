@@ -1,2 +1,3 @@
 hi, i am modified.
-abcdef
+Hi i am working on line 2.
+This file is modified by feature
