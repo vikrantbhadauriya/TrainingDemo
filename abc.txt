@@ -1,1 +1,8 @@
+
+hi, i am modified.
+
+Hi i am working on line 2.
+This file is modified by feature
+
 now i am able to pull the branch
+
